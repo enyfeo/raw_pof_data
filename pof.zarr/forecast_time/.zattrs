@@ -1,0 +1,10 @@
+{
+  "long_name": "Forecast time index",
+  "description": "Original time coordinates",
+  "units": "days since 2026-11-13 00:00:00",
+  "calendar": "proleptic_gregorian",
+  "_ARRAY_DIMENSIONS": [
+    "base_time",
+    "forecast_index"
+  ]
+}

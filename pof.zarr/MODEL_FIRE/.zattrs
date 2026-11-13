@@ -1,0 +1,8 @@
+{
+  "_ARRAY_DIMENSIONS": [
+    "base_time",
+    "forecast_index",
+    "lat",
+    "lon"
+  ]
+}
